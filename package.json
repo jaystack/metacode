@@ -1,0 +1,25 @@
+{
+  "name": "metacode",
+  "version": "0.0.1",
+  "description": "Metaprogramming tools for JavaScript",
+  "main": "lib/src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaystack/metacode.git"
+  },
+  "keywords": [
+    "javascript",
+    "decorators",
+    "es6",
+    "metaprogramming"
+  ],
+  "author": "jaystack, z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaystack/metacode/issues"
+  },
+  "homepage": "https://github.com/jaystack/metacode#readme"
+}
